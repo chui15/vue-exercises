@@ -15,6 +15,7 @@ body {
 
 button {
   margin-top: 15px;
+  margin-bottom: 15px;
   background-color: bisque;
   font-size: 20px;
   padding: 15px;
@@ -45,4 +46,19 @@ button {
   margin-top: 10px;
   width: 350px;
   display: block;
+}
+
+.tab {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.tab:hover {
+  cursor: pointer;
+}
+
+.activeTab {
+  text-decoration: underline;
+  color: rgb(80, 185, 150);
+  font-weight: bold;
 }
