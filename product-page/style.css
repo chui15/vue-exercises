@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.product-image {
+  width: 300px;
+  float: left;
+}
+
+.product-info {
+  width: 500px;
+  float: left;
+  margin-left: 30px;
+}
+
+button {
+  margin-top: 15px;
+  background-color: bisque;
+  font-size: 20px;
+  padding: 15px;
+}
+
+.disabledButton {
+  background-color: #d8d8d8;
+}
+
+.cart {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 70px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.color-box {
+  width: 40px;
+  height: 40px;
+  margin-top: 5px;
+}
