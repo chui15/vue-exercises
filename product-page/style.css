@@ -38,3 +38,11 @@ button {
   height: 40px;
   margin-top: 5px;
 }
+
+.review-form {
+  border: 1px solid lightgray;
+  padding: 10px;
+  margin-top: 10px;
+  width: 350px;
+  display: block;
+}
